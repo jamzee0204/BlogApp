@@ -3,6 +3,7 @@ This project is being just to save my learning in DRF environment
 
 Setup Instructions :
 (1) Navigate into the choice of your directory and clone the project.
+
 (2) After Cloning, make a virtual Environment for the project using :
     
     python3 -m venv env
